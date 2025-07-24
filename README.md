@@ -192,4 +192,8 @@ A clean, balanced, and visualized dataset ready for classification modeling. The
 ---
 
 This notebook is an excellent demonstration of geospatial data science, remote sensing analytics, and machine learning preprocessing pipeline in action for a real-world problem like fire classification in India.
+<<<<<<< HEAD
  git remote add origin https://github.com/KUNDANPATIL25/2nd-week-deforestation-detection.git
+=======
+ git remote add origin https://github.com/KUNDANPATIL25/2nd-week-deforestation-detection.git
+>>>>>>> 8ca0083 (csv file added)
